@@ -1,0 +1,22 @@
+{
+    "Lazer V": ["Cinema", "Shopping", "Game", "Futebol", "Beach", "Beach Tenis", "Bar Futebol", "Natação"],
+    "Casa F": ["CPFL", "DAE", "Energia Solar", "Seguro Casa", "Parcelamento Casa", "Parc Casa"],
+    "Casa V": ["Tim", "Vivo", "Segurança", "Guardinha"],
+    "Utilitários V": ["Mercado Livre"],
+    "Restaurante V": ["Restaurante", "Almoço", "Almoco", "Jantar", "Janta", "Cafe", "Café"],
+    "Transporte V": ["Gasolina", "Troca de Oleo", "Borracheiro", "Val Mecanica", "BR", "Combustível", "Combustiivel"],
+    "Transporte F": ["Seguro Carro", "Parcelamento Carro", "Parc Carro"],
+    "Saúde V": ["Droga Raia", "Todo Dia", "Drogaria São Paulo", "Convênio", "Massagem", "Fono", "Guilherme Avaliação", "Guilherme", "Farmacia", "Drogaria", "Growth", "Velocity"],
+    "Supermercado V": ["Supermercado", "São Vicente", "Pague Menos", "Crema", "SAMS Club", "ML Creme", "Agua", "Palmito", "Água"],
+    "PET V": ["Cia Animal", "Petz", "Cobasi", "ProAquarista"],
+    "Vestuário V": ["Roupa", "Roupas", "Calçado", "Calçados", "Touca"],
+    "Auto Cuidado V": ["Gympass", "Unha", "Natura", "Raisa"],
+    "Educação F": ["Escola", "Inglês", "Psicopedagoga", "Mensalidade", "MBA"],
+    "Educação V": ["Curso", "Material", "Material"],
+    "Outros V": ["Doação"],
+    "Presente V": ["Presente"],
+    "Reembolso V": ["Reembolso"],
+    "Salário F": ["Salario", "Salário", "Adiantamento"],
+    "Recebimento V": ["Recebimento"],
+    "Loterica": ["MegaSena"]
+}
